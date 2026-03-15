@@ -43,7 +43,7 @@ export default function LandingPage() {
       <div id="hero" data-section="hero">
         <HeroBillboardCarousel
           title="Discover Your Next Adventure"
-          description="Explore the world's most beautiful destinations with Wanderlust Travels. From tropical paradises to mountain peaks, we create unforgettable memories."
+          description="Explore the world's most beautiful destinatins with Wanderlust Travels. From tropical paradises to mountain peaks, we create unforgettable memories."
           tag="Travel Experiences"
           tagIcon={CompassIcon}
           tagAnimation="slide-up"

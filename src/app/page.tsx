@@ -47,7 +47,7 @@ export default function LandingPage() {
           tag="Travel Experiences"
           tagIcon={CompassIcon}
           tagAnimation="slide-up"
-          background="radial-gradient"
+          background={{ variant: "radial-gradient" }}
           buttons={[
             { text: "Explore Destinations", href: "#destinations" },
             { text: "View Packages", href: "#packages" }

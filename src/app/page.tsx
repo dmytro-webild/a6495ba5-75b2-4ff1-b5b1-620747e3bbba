@@ -49,7 +49,7 @@ export default function LandingPage() {
           tagAnimation="slide-up"
           background={{ variant: "radial-gradient" }}
           buttons={[
-            { text: "Explore Destinations", href: "#destinations" },
+            { text: "Explore niggasssss", href: "#destinations" },
             { text: "View Packages", href: "#packages" }
           ]}
           buttonAnimation="slide-up"

@@ -54,7 +54,7 @@ export default function LandingPage() {
           ]}
           buttonAnimation="slide-up"
           mediaItems={[
-            { imageSrc: "http://img.b2bpic.net/free-photo/romantic-dinner-setting_74190-468.jpg", imageAlt: "tropical beach sunset ocean travel" },
+            { imageSrc: "https://images.pexels.com/photos/5691261/pexels-photo-5691261.jpeg?auto=compress&cs=tinysrgb&h=650&w=940&id=5691261", imageAlt: "tropical beach sunset ocean travel" },
             { imageSrc: "http://img.b2bpic.net/free-photo/indian-travel-destination-beautiful-attractive_53876-16346.jpg", imageAlt: "mountain landscape hiking adventure" },
             { imageSrc: "http://img.b2bpic.net/free-photo/man-with-camera-castle-stairs_23-2148622583.jpg", imageAlt: "ancient temple architecture travel" }
           ]}
